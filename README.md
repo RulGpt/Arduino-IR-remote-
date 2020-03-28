@@ -27,3 +27,4 @@ I have made separates funtions to perform the task, light fxn looks something li
 NOTE: I have made several changes in the (ir_NEC.cpp) file and changed the frequency from 38 to 40 to serve my purpose.
 
 You have to choose the correct remote type which suites your purpose. eg: for my purpose HEX code need to be of 32-bits.
+PS: In the future I'll be working on making this device more robust and campatible with a lot more devices (eg: Air-conditioner, Television etc.)
