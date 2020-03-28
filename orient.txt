@@ -1,0 +1,7 @@
+fan on/off	-	31ce00ff	835584255		1
+light on/off	-	31CE40BF	835600575		4
+speed 1		-	31CE20DF	835592415		3
+speed 2		-	31CE10EF	835588335		2
+speed 3		- 	31CE609F	835608735		5
+speed 4		-	31cee01f	835641375		6
+speed 5 	-	31ce10ef
