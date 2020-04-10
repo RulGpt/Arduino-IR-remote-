@@ -5,7 +5,7 @@ Replicating IR-tech based remote
 Library used : https://github.com/z3t0/Arduino-IRremote
 Although I've been coding for a couple of years this is my first github project.
 
-So I got inspired to do this project after my Dad's celing fan remote gone bad it's an orient company's ceiling fan. I own an Android which has an IR transmitter. Years back just for fun I had saved the IR codes of the celing fan button codes. Never thought I'd ever have the need to use it. 
+So I got inspired to do this project after my Dad's celing fan remote gone bad it's an orient company's ceiling fan. I own an Android which has an IR transmitter. Years back just for fun I saved the IR codes of the celing fan button codes. Never thought I'd ever have the need to use it. 
 During the quarantine(due to corona virus out-break) I've been spending my entire day at my house. So I decided to make the remote.
 
 After this being said Let's start with the porject.
