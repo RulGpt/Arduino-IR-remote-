@@ -28,3 +28,22 @@ NOTE: I have made several changes in the (ir_NEC.cpp) file and changed the frequ
 
 You have to choose the correct remote type which suites your purpose. eg: for my purpose HEX code need to be of 32-bits.
 PS: In the future I'll be working on making this device more robust and campatible with a lot more devices (eg: Air-conditioner, Television etc.)
+
+
+About the circuit Diagram: I am working on my circuit schematic skills:
+
+According to the code:
+
+                      |         pin No.            |                        Task to be performed                  |
+                      |                            |   if Button not pressed   |      If button is pressed        |
+                      |           12               |PULLED HIGH(Nothing)       | Set to ground(turn fan On/off)   |
+                      |           11               |PULLED HIGH(Nothing)       | Set to ground(turn light on/off) |
+                      |            9               |PULLED HIGH(Nothing)       | Set to ground(fan speed = 1)     |
+                      |            8               |PULLED HIGH(Nothing)       | Set to ground(fan speed = 2)     |
+                      |            7               |PULLED HIGH(Nothing)       | Set to ground(fan speed = 3)     |
+                      |            6               |PULLED HIGH(Nothing)       | Set to ground(fan speed = 4)     |
+
+
+                       |        pin No.            |                                Task to be performed                              |
+                       |           3               |IR-LED is connected to this pin and will send HEX codes                           |
+                       |           2               |It is the status LED it BLink for a second & indicates that IR-LED is sending data|
